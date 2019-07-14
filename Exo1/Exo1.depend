@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1562921636 source:/home/fadeel/Documents/Exo1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+
